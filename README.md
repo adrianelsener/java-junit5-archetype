@@ -33,7 +33,7 @@ Last step: creating a project
  mvn archetype:generate \
  -DarchetypeGroupId=com.tbp \
  -DarchetypeArtifactId=java-junit5-archetype \
- -DarchetypeVersion=1.0-SNAPSHOT  \
+ -DarchetypeVersion=1.0.0-SNAPSHOT  \
  -DgroupId=com.example       \
  -DartifactId=my-project      \
  -DinteractiveMode=false
